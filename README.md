@@ -1,7 +1,9 @@
-# House Sales in King County, USA 
+# House Sales in King County, USA ![house-emoji](https://user-images.githubusercontent.com/124249298/230869647-ca683212-400a-42fd-81fc-3e8b08c8a797.png)
+
 This project is an analysis of the house sales data for King County, USA. The goal of this project is to analyze the data and provide insights into the factors that affect house prices in this area. The data set used in this project contains information on house sales from May 2014 to May 2015.
 
 # Data Set
+
 The data set used in this project can be found in the file "kc_house_data.csv" from Kaggle. It contains the following variables:
 - id: A unique identifier for each house sold
 - date: The date on which the house was sold
@@ -26,20 +28,23 @@ The data set used in this project can be found in the file "kc_house_data.csv" f
 - sqft_lot15: The average square footage of the land lots of the nearest 15 neighbors
 
 # Analysis
+
 This data set is analyzed using Python and its data analysis and visualization libraries as Matplotlib and Seaborn. The main analysis steps include:
 
 - Data cleaning and exploration
 - Correlation analysis
 - Model building and evaluation
-The analysis is documented in the Jupyter notebook [Uploading House_Sales_in_King_Country_USA.ipynb…](), which contains code, visualizations, and explanations of the analysis steps.
+The analysis is documented in the Jupyter notebook, which contains code, visualizations, and explanations of the analysis steps.
 
 # Results
+
 The results of the analysis include insights into the factors that affect house prices in King County, USA. Some of the key findings include:
 - Square footage of the living area has a strong positive correlation with house prices.
 - A view of the waterfront or a good view of the property significantly increases the house price.
 - The house grade also has a strong positive correlation with house prices.
 - A linear regression model can be used to predict house prices with a high degree of accuracy, the predicted result indicates average house price will not change much.
 
-# Conclusion
+# Conclusion ![test-passed](https://user-images.githubusercontent.com/124249298/230869568-ebe5d9e7-57d2-4cfe-903f-7b267daa1a4e.png)
+
 
 In conclusion, this analysis provides valuable insights into the factors that affect house prices in King County, USA. The results can be used by real estate agents, buyers, and sellers to make informed decisions about buying or selling a house in this area.
