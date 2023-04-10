@@ -34,7 +34,7 @@ This data set is analyzed using Python and its data analysis and visualization l
 - Data cleaning and exploration
 - Correlation analysis
 - Model building and evaluation
-The analysis is documented in the Jupyter notebook, which contains code, visualizations, and explanations of the analysis steps.
+The analysis is documented in the Jupyter notebook https://github.com/DuyenNA/House-Sale-in-King-Country-USA/blob/main/House_Sales_in_King_Country_USA.ipynb, which contains code, visualizations, and explanations of the analysis steps.
 
 # Results
 
