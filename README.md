@@ -35,3 +35,11 @@ The analysis is documented in the Jupyter notebook [Uploading House_Sales_in_Kin
 
 # Results
 The results of the analysis include insights into the factors that affect house prices in King County, USA. Some of the key findings include:
+- Square footage of the living area has a strong positive correlation with house prices.
+- A view of the waterfront or a good view of the property significantly increases the house price.
+- The house grade also has a strong positive correlation with house prices.
+- A linear regression model can be used to predict house prices with a high degree of accuracy, the predicted result indicates average house price will not change much.
+
+# Conclusion
+
+In conclusion, this analysis provides valuable insights into the factors that affect house prices in King County, USA. The results can be used by real estate agents, buyers, and sellers to make informed decisions about buying or selling a house in this area.
